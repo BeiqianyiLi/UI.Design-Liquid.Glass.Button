@@ -2,12 +2,6 @@
 
 A high-fidelity micro-interaction design study exploring glass morphism, fluid state transitions, and optical refraction. This project documents the visual system behind a theme toggle and presents the work as a premium, single-page showcase.
 
-## Preview
-
-![Preview](/assets/__2026-03-03___11.00.44-83929e30-a77d-4af5-9a22-8e26d2a84d45.png)
-
-![Interaction](/assets/____-d35ee2b2-c24c-4d11-9a39-d43cdebaabdf.png)
-
 ## Narrative Flow
 
 - The Concept: Strategic vision and inspiration.
